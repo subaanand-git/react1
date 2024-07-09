@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('bg\ img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+/* --------- Nav bar -------------- */
+.navbar{
+    background-image: url('bg\ img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    width: 250px;
+    height: 100px;
+}
+a{
+    text-decoration: none;
+    font-size:25px;
+    color: black;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.active{
+    color: blue;
+}
+/* ----------- Home page ---------- */
+#content1 h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: 45px;   
+}
+#content1 p{
+      font-size: 20px;
+      font-weight: 600; 
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#content1 i{
+    font-size: 40px;  
+    cursor: pointer;
+}
+#content1 i:hover{
+    color: green;
+}
+#content2 img{
+   width: 350px;
+   height: 350px;
+}
+/* ---------- Project page -----------  */
+#content3 img{
+    width: 300px;
+    height: 300px;
+}
+#content4 h1{
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#content4 p{
+    font-weight: 400;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* ---------- Contact page -----------  */
+#content5 img{
+    width: 300px;
+    height: 300px;
+    border: 10px solid blue;
+    border-radius: 50%;
+}
+#content4 i{
+    font-size: 40px;
+    cursor: pointer;
+}
+#content4 i:hover{
+    color: yellow;
+}
+#whatsup{
+    color: green;
+}
+#link{
+    color:blue;
+}
+#mail{
+    color: red;
+}
+#git{
+    color: grey;
+}
+#insta{
+    color:rgb(235, 96, 235);
+}
+/* ---------- Skills page -----------  */
+#content7{
+    background: blue;
+    font-size:40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    border-radius: 20px;
+}
+#content8 img{
+    width: 350px;
+    height: 500px;
+}
+.html{
+    width:100%;
+    background-color: rgb(185, 185, 252);
+    height:50px ;
+    border-radius: 20px;
+}
+.inner1{
+    width:90%;
+    background-color: blue;
+    height: 50px;
+    border-radius: 20px;
+}
+span{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.css{
+    width:100%;
+    background-color: rgb(185, 185, 252);
+    height:50px ;
+    border-radius: 20px;
+}
+.inner2{
+    width: 75%;
+    background-color: blue;
+    height: 50px;
+    border-radius: 20px;
+}
+.js{
+    width:100%;
+    background-color: rgb(185, 185, 252);
+    height:50px ;
+    border-radius: 20px;
+}
+.inner3{
+    width: 65%;
+    background-color: blue;
+    height: 50px;
+    border-radius: 20px;
+}
+.boot{
+    width:100%;
+    background-color: rgb(185, 185, 252);
+    height:50px ;
+    border-radius: 20px;
+}
+.inner4{
+    width: 85%;
+    background-color: blue;
+    height: 50px;
+    border-radius: 20px;
+}
+.react{
+    width:100%;
+    background-color: rgb(185, 185, 252);
+    height:50px ;
+    border-radius: 20px;
+}
+.inner5{
+    width: 80%;
+    background-color: blue;
+    height: 50px;
+    border-radius: 20px;
+}
+.node{
+    width:100%;
+    background-color: rgb(185, 185, 252);
+    height:50px ;
+    border-radius: 20px;
+}
+.inner6{
+    width: 60%;
+    background-color: blue;
+    height: 50px;
+    border-radius: 20px;
+}
+.express{
+    width:100%;
+    background-color: rgb(185, 185, 252);
+    height:50px ;
+    border-radius: 20px;
+}
+.inner7{
+    width: 75%;
+    background-color: blue;
+    height: 50px;
+    border-radius: 20px;
+}
+.mongo{
+    width:100%;
+    background-color: rgb(185, 185, 252);
+    height:50px ;
+    border-radius: 20px;
+}
+.inner8{
+    width: 85%;
+    background-color: blue;
+    height: 50px;
+    border-radius: 20px;
+}
