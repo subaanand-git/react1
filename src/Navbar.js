@@ -14,7 +14,7 @@ function Navbar(){
     </button>
     <div class="collapse navbar-collapse nav justify-content-lg-end" id="navbarNavAltMarkup">
       <div class="navbar-nav ">
-        <a class="nav-link active" aria-current="page" href="#"><NavLink to ="/">Home</NavLink></a>
+        <a class="nav-link active" aria-current="page" href="#"><NavLink to ="/react1">Home</NavLink></a>
         <a class="nav-link active mx-lg-5" aria-current="page" href="#"><NavLink to = "/Skills">Skills</NavLink></a>
         <a class="nav-link active" aria-current="page" href="#"><NavLink to = "/Project">Project</NavLink></a>
         <a class="nav-link active mx-lg-5" aria-current="page" href="#"><NavLink to = "/Contact">Contact me</NavLink></a>
